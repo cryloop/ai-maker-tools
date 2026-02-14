@@ -1,0 +1,129 @@
+{
+  "date": "2026-02-14",
+  "groups": [
+    {
+      "name": "Hugging Face \u2014 Blog",
+      "items": [
+        {
+          "source": "Hugging Face \u2014 Blog",
+          "title": "Custom Kernels for All from Codex and Claude",
+          "url": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
+          "published": "Fri, 13 Feb 2026 00:00:00 GMT",
+          "score": null
+        },
+        {
+          "source": "Hugging Face \u2014 Blog",
+          "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
+          "url": "https://huggingface.co/blog/openenv-turing",
+          "published": "Thu, 12 Feb 2026 00:00:00 GMT",
+          "score": null
+        },
+        {
+          "source": "Hugging Face \u2014 Blog",
+          "title": "Transformers.js v4 Preview: Now Available on NPM!",
+          "url": "https://huggingface.co/blog/transformersjs-v4",
+          "published": "Mon, 09 Feb 2026 00:00:00 GMT",
+          "score": null
+        },
+        {
+          "source": "Hugging Face \u2014 Blog",
+          "title": "Introducing SyGra Studio",
+          "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
+          "published": "Thu, 05 Feb 2026 16:52:28 GMT",
+          "score": null
+        },
+        {
+          "source": "Hugging Face \u2014 Blog",
+          "title": "Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3\u2019s Top Model",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
+          "published": "Wed, 04 Feb 2026 15:00:40 GMT",
+          "score": null
+        }
+      ]
+    },
+    {
+      "name": "arXiv \u2014 cs.AI",
+      "items": []
+    },
+    {
+      "name": "Reddit \u2014 r/LocalLLaMA",
+      "items": [
+        {
+          "source": "Reddit \u2014 r/LocalLLaMA",
+          "title": "AMA with MiniMax \u2014 Ask Us Anything!",
+          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r3t775/ama_with_minimax_ask_us_anything/",
+          "published": "2026-02-13T16:07:54+00:00",
+          "score": null
+        },
+        {
+          "source": "Reddit \u2014 r/LocalLLaMA",
+          "title": "Announcing LocalLlama discord server & bot!",
+          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mpk2va/announcing_localllama_discord_server_bot/",
+          "published": "2025-08-13T23:21:05+00:00",
+          "score": null
+        },
+        {
+          "source": "Reddit \u2014 r/LocalLLaMA",
+          "title": "The gap between open-weight and proprietary model intelligence is as small as it has ever been, with Claude Opus 4.6 and GLM-5'",
+          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r44fzk/the_gap_between_openweight_and_proprietary_model/",
+          "published": "2026-02-13T23:20:10+00:00",
+          "score": null
+        },
+        {
+          "source": "Reddit \u2014 r/LocalLLaMA",
+          "title": "GPT-OSS 120b Uncensored Aggressive Release (MXFP4 GGUF)",
+          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r3zuuf/gptoss_120b_uncensored_aggressive_release_mxfp4/",
+          "published": "2026-02-13T20:15:33+00:00",
+          "score": null
+        },
+        {
+          "source": "Reddit \u2014 r/LocalLLaMA",
+          "title": "SWE-rebench Jan 2026: GLM-5, MiniMax M2.5, Qwen3-Coder-Next, Opus 4.6, Codex Performance",
+          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r3weq3/swerebench_jan_2026_glm5_minimax_m25/",
+          "published": "2026-02-13T18:06:40+00:00",
+          "score": null
+        }
+      ]
+    },
+    {
+      "name": "Hacker News",
+      "items": [
+        {
+          "source": "Hacker News (Algolia: llm)",
+          "title": "LLM Inevitabilism",
+          "url": "https://tomrenner.com/posts/llm-inevitabilism/",
+          "published": "2025-07-15T04:35:35Z",
+          "score": 1773
+        },
+        {
+          "source": "Hacker News (Algolia: llm)",
+          "title": "Learning to Reason with LLMs",
+          "url": "https://openai.com/index/learning-to-reason-with-llms/",
+          "published": "2024-09-12T17:08:46Z",
+          "score": 1654
+        },
+        {
+          "source": "Hacker News (Algolia: llm)",
+          "title": "LLM Visualization",
+          "url": "https://bbycroft.net/llm",
+          "published": "2023-12-03T06:08:29Z",
+          "score": 1592
+        },
+        {
+          "source": "Hacker News (Algolia: llm)",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL",
+          "url": "https://arxiv.org/abs/2501.12948",
+          "published": "2025-01-25T18:39:49Z",
+          "score": 1351
+        },
+        {
+          "source": "Hacker News (Algolia: llm)",
+          "title": "A small number of samples can poison LLMs of any size",
+          "url": "https://www.anthropic.com/research/small-samples-poison",
+          "published": "2025-10-09T16:04:04Z",
+          "score": 1202
+        }
+      ]
+    }
+  ]
+}

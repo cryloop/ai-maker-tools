@@ -1,0 +1,21 @@
+**📡 AI Signal Radar — 2026-02-14**
+
+**Hugging Face — Blog**
+• OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments 02-12
+• Transformers.js v4 Preview: Now Available on NPM! 02-09
+• Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s ... 02-04
+
+**Reddit — r/LocalLLaMA**
+• models : optimizing qwen3next graph by ggerganov · Pull Request #19375 · ggml-or... 02-14
+• The gap between open-weight and proprietary model intelligence is as small as it... 02-13
+
+**Reddit — r/MachineLearning**
+• [D] ICML: every paper in my review batch contains prompt-injection text embedded... 02-13
+• [P] I trained YOLOX from scratch to avoid Ultralytics' AGPL (aircraft detection ... 02-14
+
+**Hacker News**
+• LLM Inevitabilism ⬆1773, 07-15
+• Learning to Reason with LLMs ⬆1654, 09-12
+• LLM Visualization ⬆1592, 12-03
+• DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL ⬆1351, 01-25
+• A small number of samples can poison LLMs of any size ⬆1202, 10-09
